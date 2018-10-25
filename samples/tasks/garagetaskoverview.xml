@@ -9,5 +9,10 @@
 <concept id="taskconcept" xml:lang="en-us">
 <title>Garage Tasks</title>
 <shortdesc>When you go into the garage, be prepared to get your hands dirty!</shortdesc>
-<conbody></conbody>
+<conbody>
+  <p>This is text<codeblock>new codeblock with coderef<coderef keyref="coderef"/></codeblock></p>
+  
+  <p>Link to file using keyref: <xref keyref="coderef"/></p>
+  <p>Link directly to file: <xref href="../content.txt" format="txt">Link to text file</xref></p>
+ </conbody>
 </concept>

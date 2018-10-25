@@ -1,0 +1,3 @@
+<root>
+	<p>This code should display in coderef</p>
+</root>
